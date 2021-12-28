@@ -1,3 +1,4 @@
+# OOP Asssignment to RUST
 #### homework 1
   ##### problem 1 - Add three numbers
   ##### problem 2 - Compute Remainder and Quotient
@@ -7,7 +8,6 @@
   ##### problem 2 - Find the sum of the series 1 +11 + 111 + 1111 + ... n
   ##### problem 3 - 3n + 1 problem
   
-# OOP Asssignment to RUST
 #### homework 3
   ##### problem 1 - Find the biggest number from a given random number set
   ##### problem 2 - Fibonacci sequence
